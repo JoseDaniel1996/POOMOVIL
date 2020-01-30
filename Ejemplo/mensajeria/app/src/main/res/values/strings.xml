@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mensajeria</string>
+    <string name="default_notification_channel_id">color</string>
+</resources>
